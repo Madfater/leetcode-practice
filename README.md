@@ -21,6 +21,6 @@
 ### Sep. 3rd
 |No.|Title|Completion Date|Code|Difficuty
 |---|-----|:--:|:--:|:--:|
-|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|8/27|c++|Easy|
-|1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|8/27|c++|Easy|
-|2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|8/27|c++|Medium|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|9/6|c++|Easy|
+|1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|9/6|c++|Easy|
+|2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|9/6|c++|Medium|
