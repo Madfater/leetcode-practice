@@ -8,9 +8,9 @@
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|9/1|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.1448/1448.cpp)|Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|9/5|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.429/429(ver.DFS).cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|9/8|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.94/94(ver.Recursive).cpp)|Easy|
+|1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|9/9|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.1996/1996.cpp)|Medium|
 ||||||
 
-***
 
 ## LeetCode Study Circle
 
