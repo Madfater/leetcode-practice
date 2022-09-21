@@ -9,7 +9,7 @@
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|9/5|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.429/429(ver.DFS).cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|9/8|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.94/94(ver.Recursive).cpp)|Easy|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|9/9|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.1996/1996.cpp)|Medium|
-|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|9/9|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.985/985.cpp)|Medium|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|9/21|[c++](https://github.com/Madfater/leetcode-practice/blob/master/Daily%20LeetCode/.985/985.cpp)|Medium|
 ||||||
 
 
